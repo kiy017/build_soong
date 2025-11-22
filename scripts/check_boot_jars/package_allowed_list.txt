@@ -256,3 +256,7 @@ org\.ifaa\.aidl.*
 
 # Evolution X adds
 org.evolution.*
+
+###################################################
+# Camera Extensions
+com.camera.camera2.extensions.*
